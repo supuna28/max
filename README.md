@@ -92,4 +92,4 @@ userbot = {
 * [`Rizky (Dev)`](https://github.com/Rizxyu)
 * [`Arifi Razzaq (dev)`](https://github.com/Arifirazzaq2001)
 * [`Oreki (Kanjut)`](https://github.com/Oreki-san)
-* [`ＲｉｘｌｅＢoｔ (bot whatsapp)`](https://wa.me/687955238)
+* [`ＲｉｘｌｅＢot`](https://wa.me/687955238)
