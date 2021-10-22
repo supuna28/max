@@ -28,6 +28,8 @@ Edit the required value in [`config.js`](https://github.com/Rizxyu/RIXLE-BOT/blo
 ```js
 userbot = {
  owner: [
+  "687955238",
+  "6281261324817", 
   "62822980698995", 
   "436504463151666",
   "6282328303332",
@@ -38,10 +40,10 @@ userbot = {
    wait: "tunggu sedang di proses...",
    error: "errorr!!"
    },
-   prefix: ["/"],
+   prefix: ["_"],
    gexp: 50,
    packname: 'RixleBot',
-   author: '@_RizkyAdiNur',
+   author: '@arifirazzaq2001',
     setting: {
     admin: "only admin",
     group: "only group",
@@ -88,6 +90,6 @@ userbot = {
 * [`Ivan (Dev)`](https://github.com/ivan-MLN)
 * [`Sanz (Dev)`](https://github.com/sanzgantengz)
 * [`Rizky (Dev)`](https://github.com/Rizxyu)
-* [`Arifi Razzaq`](https://github.com/Arifirazzaq2001)
+* [`Arifi Razzaq (Lord)`](https://github.com/Arifirazzaq2001)
 * [`Oreki (Kanjut)`](https://github.com/Oreki-san)
-* [`ＲｉｘｌｅＢoｔ (bot whatsapp)`](https://wa.me/62823283033323)
+* [`ＲｉｘｌｅＢoｔ (bot whatsapp)`](https://wa.me/687955238)
