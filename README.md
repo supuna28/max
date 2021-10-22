@@ -90,6 +90,6 @@ userbot = {
 * [`Ivan (Dev)`](https://github.com/ivan-MLN)
 * [`Sanz (Dev)`](https://github.com/sanzgantengz)
 * [`Rizky (Dev)`](https://github.com/Rizxyu)
-* [`Arifi Razzaq (Lord)`](https://github.com/Arifirazzaq2001)
+* [`Arifi Razzaq (dev)`](https://github.com/Arifirazzaq2001)
 * [`Oreki (Kanjut)`](https://github.com/Oreki-san)
 * [`ＲｉｘｌｅＢoｔ (bot whatsapp)`](https://wa.me/687955238)
